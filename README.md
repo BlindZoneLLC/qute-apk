@@ -1,4 +1,4 @@
-# Qute terminal emulator
+# Qute Terminal Emulator
 Terminal emulator - used to emulate a unix terminal and work on the command line on your smartphone.
 
 Download Qute apk
