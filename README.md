@@ -11,7 +11,17 @@ Download Qute apk
 **NOTICE: We strongly recommend getting the app from Google Play. Please note that if you are using an apk file from this repository, you will need to first delete the original application downloaded through Google Play, because it is signed by Google.** 
 
 ## Features
-
+* Autorun and creation of shortcuts
+* Bash script editor
+* Command line file manager
+* Run bin files in terminal, when available
+* Manage files with nnn and edit them with nano, vim, or emacs
+* Access to servers via ssh
+* Bash and ssh shell
+* Create your own list of teams
+* Automatic completion
+* Support for rooted devices
+  
 ## Compatibility
 Latest version supports Android 8.0+ (Android APi 26+) and legacy version for Android 5.0+ (Android API 21+). All architectures.
 
