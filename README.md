@@ -23,7 +23,7 @@ Download Qute apk
 * Support for rooted devices
   
 ## Compatibility
-Latest version supports Android 8.0+ (Android APi 26+) and legacy version for Android 5.0+ (Android API 21+). All architectures.
+Latest version supports Android 8.0+ (Android APi 26+) and [legacy](https://github.com/BlindZoneLLC/qute-apk/releases/tag/3.111) version for Android 5.0+ (Android API 21+). All architectures.
 
 ## Feedback 
 * Bug reports can be submitted [here](https://github.com/BlindZoneLLC/qute-apk/issues).
